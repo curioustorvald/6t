@@ -1,4 +1,8 @@
-**TTTTTT: Template Transpiler to Torvald's Tech Tales** is just an another bespoke blogging framework.
+**TTTTTT: Template Transpiler to Torvald's Tech Tales** 
+
+A minimal static blog generator that compiles article sources into HTML whenever the articles git repository receives a push.
+
+*Torvald's Tech Tales* is a name of my own blog: https://blog.curioustorvald.com
 
 ## Setup
 
